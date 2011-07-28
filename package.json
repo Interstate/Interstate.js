@@ -1,0 +1,15 @@
+{ "name" : "interstate"
+, "description" : "A simple node.js wrapper for the Interstate API"
+, "tags" : ["interstate","api","wrapper","project management"]
+, "version" : "0.0.1"
+, "author" : "Simon Fletcher <simon@interstateapp.com>"
+, "main" : "./lib/interstate"
+, "directories": { "lib": "./lib/interstate" }
+, "repository" :
+  { "type" : "git"
+  , "url" : "http://github.com/Interstate/interstate.js.git"
+  }
+, "bugs" :
+  { "web" : "http://github.com/voodootikigod/postmark.js/issues" }
+, "engines" : ["node >=0.4.0"]
+}
